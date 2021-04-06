@@ -1,0 +1,5 @@
+com\example\Licenta\Model\User.class
+com\example\Licenta\UserService.class
+com\example\Licenta\LicentaApplication.class
+com\example\Licenta\Controller\UserController.class
+com\example\Licenta\DAO\UserRepo.class
